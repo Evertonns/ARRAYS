@@ -1,0 +1,7 @@
+Curso Programador Back end , JavaScript modulo Arrays:
+
+O que são arrays e porque são importantes.
+Aalterar arrays com os métodos do JS.
+Laços de repetição e como usá-los.
+Modificar arrays utilizando métodos do JS moderno (ES6 em diante).
+Pratique com os conceitos básicos e adquira conhecimentos sólidos.
